@@ -1,0 +1,12 @@
+git init 
+git add 
+git status
+git rm --cached 
+git cimmit -m 
+git log 
+git restore
+git log --oneline
+git log --oneline --pretty
+git config --global user.name < >
+git config --global user.email < >
+
